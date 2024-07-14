@@ -54,7 +54,7 @@ with tab1:
 
     with st.expander("Learn more about the technology"):
         st.markdown("""
-        - **Artificial Intelligence**: Utilizing state-of-the-art AI and deep learning techniques for high accuracy in stroke predictions.
+        - **Artificial Intelligence**: Utilizing state-of-the-art AI and machine learning techniques for high accuracy in stroke predictions.
         - **Web-Based Deployment**: Accessible through a user-friendly web application, developed using Streamlit for ease of use.
         """)
 
